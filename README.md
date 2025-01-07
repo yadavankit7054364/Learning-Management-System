@@ -19,3 +19,13 @@ UNIVERSITY MANAGEMENT SYSTEM (UMS) is a flagship product of Easy Solution which 
 
 3.	Scope:
 This project deals with the various functioning in College management process. The main idea is to implement a proper process to system. In our existing system contains a many operations registration, student search, fees, attendance, exam records, performance of the student etc. All these activity takeout manually by administrator.
+
+
+
+The project entitled as Institution Management System is the system that deals with the issues related to a particular institution.
+This project is successfully implemented with all the features mentioned in system requirements specification.
+The application provides appropriate information to users according to the chosen service.
+The project is designed keeping in view the day to day problems faced by a college.
+
+Deployment of our application will certainly help the college to reduce unnecessary wastage of time in personally going to each department for some information.
+Awareness and right information about any college is essential for both the development of student as well as faculty. So this serves the right purpose in achieving the desired requirements of both the communities.
